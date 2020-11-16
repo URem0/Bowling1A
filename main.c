@@ -1,6 +1,6 @@
 #include "fonctions.h"
 #include <stdio.h>
-
+//hello
 int main(void){
 	JOUEUR Joueur1;
 	JOUEUR Joueur2;
